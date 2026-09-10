@@ -1,4 +1,5 @@
-# Candy-Sales-
+# Candy-Sales-Analysis
+
 **An Analysis on Candy Sales Performance**
 
 
